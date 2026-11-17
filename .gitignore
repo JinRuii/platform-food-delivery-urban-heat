@@ -1,0 +1,19 @@
+# Keep record-level data outside this code repository.
+data/
+private_data/
+private_derived/
+derived/
+model_results/
+figures/
+raw_api/
+*.csv
+*.json
+*.nc
+*.dbf
+*.shp
+*.shx
+*.cpg
+*.prj
+__pycache__/
+*.py[cod]
+.venv/
